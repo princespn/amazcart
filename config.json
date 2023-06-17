@@ -1,0 +1,12 @@
+{
+  "version": "3.7",
+  "release_date": "03/21/2023",
+  "min": "3.6",
+  "migrations": [
+    "Modules/GeneralSetting/Database/Migrations/2023_03_15_173712_notification_settings_slug_generate.php",
+    "Modules/FrontendCMS/Database/Migrations/2022_10_18_102123_add_permission_for_social_link.php",
+    "Modules/FrontendCMS/Database/Migrations/2023_03_23_164338_homepage_custome_section_popular_search_and_about_section_add.php"
+  ],
+  "url": "https://spondonit.com/contact",
+  "notes": "This is a bug fixing, design improve, new feature added. Minimum amazcart version required 3.6"
+}
